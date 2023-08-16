@@ -1,0 +1,10 @@
+Nodejs- use module stytem to organize the code
+
+Types of module
+
+1.Core modules(built-in)    var module = require('moduleName')
+2.Local modules
+3.Third party modules
+
+
+Welcome to MERN OR MEAN stack development !!!Welcome to MERN OR MEAN stack development !!!Welcome to MERN OR MEAN stack development !!!Welcome to MERN OR MEAN stack development !!!Welcome to MERN OR MEAN stack development !!!Welcome to MERN OR MEAN stack development !!!
